@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Hafsi Ahmed</h1>
-<h3 align="center">A passionate full stack javascript web developer from Tunisia</h3>
+<h3 align="center">A passionate Full Stack Javascript Web Developer from Tunisia</h3>
 <p align="center"> <img src="https://github.com/midox4/midox4/blob/main/banner.png" alt="mybanner" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=midox4&label=Profile%20views&color=0e75b6&style=flat" alt="midox4" /> </p>
 
-- 🔭 I’m currently working on **Enterprise resource planning 'ERP postal'**
+- 🔭 I’m currently working on **Enterprise resource planning 'ERP - Tunisian Post'**
 
-- 🌱 I’m currently learning **kubernetes, ngnix, amazon aws, jest**
+- 🌱 I’m currently learning **Kubernetes, Ngnix, Amazon AWS, Jest**
 
 - 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
 
-- 💬 Ask me about **react, nextjs, docker**
+- 💬 Ask me about **ReactJS, NextJS, Tailwind, Docker**
 
 - 📫 How to reach me **hafsi.ahmed@hotmail.fr**
 
