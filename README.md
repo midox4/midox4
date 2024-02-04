@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **kubernetes, ngnix, amazon aws, jest**
 
-- 👨‍💻 All of my projects are available at [https://hafsiahmed.onrender.com/](https://hafsiahmed.onrender.com/)
-
 - 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
 
 - 💬 Ask me about **react, nextjs, docker**
