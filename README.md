@@ -1,5 +1,5 @@
 
-<h1 align="left">👋 Welcom To My Github 🌈 </h1>
+<h1 align="left">👋 Welcome To My Github 🌈 </h1>
 <h1 align="center">Hi 👋, I'm Hafsi Ahmed</h1>
 <h3 align="center">A passionate Full Stack Javascript Web Developer from 🇹🇳 Tunisia 🇹🇳</h3>
 <p align="center"> <img src="https://github.com/midox4/midox4/blob/main/banner.png" alt="mybanner" /> </p>
